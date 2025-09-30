@@ -1,0 +1,2 @@
+start the script : 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/whoisthatlmao/bssez/refs/heads/main/sv1.0"))()
